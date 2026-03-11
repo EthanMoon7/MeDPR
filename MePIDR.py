@@ -437,7 +437,6 @@ class MePIDRTrainer():
             print(classification_report(y_dev, y_pred,  digits=5))
             print("Best val set acc:", self.best_acc)
                                 
-
 # %%
 class Run():
     def __init__(self,config):
