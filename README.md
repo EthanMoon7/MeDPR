@@ -1,4 +1,4 @@
-# MePIDR
+# MeDPR
 Anonymous repository for IEEE Transactions on Computational Social Systems submission: "MeDPR: Memory-Augmented Deception Prototype Learning with Dynamic Routing for Fake News Detection". This repository contains scripts and resources for reproducibility, maintained under full anonymity for the review process.
 ![image](https://github.com/EthanMoon7/MePIDR/blob/main/images/Architecture.jpg)
 ## Requirements
