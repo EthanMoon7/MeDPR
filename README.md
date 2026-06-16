@@ -1,5 +1,5 @@
 # MePIDR
-Anonymous repository for Neural Networks submission: "MePIDR: Integrating Memory-Augmented Progressive Interaction and Dynamic Routing for Multimodal Fake News Detection". This repository contains scripts and resources for reproducibility, maintained under full anonymity for the review process.
+Anonymous repository for IEEE Transactions on Computational Social Systems submission: "MeDPR: Memory-Augmented Deception Prototype Learning with Dynamic Routing for Fake News Detection". This repository contains scripts and resources for reproducibility, maintained under full anonymity for the review process.
 ![image](https://github.com/EthanMoon7/MePIDR/blob/main/images/Architecture.jpg)
 ## Requirements
 Key dependencies for running MePIDR:
