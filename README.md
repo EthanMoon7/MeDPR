@@ -1,6 +1,6 @@
 # MeDPR
 Repository for Neurocomputing submission: "MeDPR: Memory-Augmented Deception Prototype Learning with Dynamic Routing for Fake News Detection". This repository contains scripts and resources for reproducibility, maintained under full anonymity for the review process.
-![image](https://github.com/EthanMoon7/MePIDR/blob/main/images/Architecture.jpg)
+![image](https://github.com/EthanMoon7/MePIDR/blob/main/data/Architecture.jpg)
 ## Requirements
 Key dependencies for running MeDPR:
 * huggingface-hub==0.30.1
